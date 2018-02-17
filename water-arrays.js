@@ -5,7 +5,7 @@ var ySpeed = [];
 
 function setup() {
   createCanvas(400, 400);
-	colorMode(HSB)
+  colorMode(HSB)
 	
   for (var i = 0; i < 100; i = i + 1) {
     x[i] = width/2;
