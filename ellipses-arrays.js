@@ -24,7 +24,7 @@ function draw() {
 	}
 		
    if (random() < 0.02) {
-      d = random(10,100);	
+      d = random(10,300);	
    }
 	
    if (random() < 0.01) {
